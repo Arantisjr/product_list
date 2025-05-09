@@ -1,0 +1,18 @@
+
+
+.cart_container{
+    background-color: white;
+    padding: 2rem;
+    border-radius: 1rem;
+    margin-top: 2rem;
+
+}
+.cart_container img{
+    margin-left: 4rem;
+    margin-top: 2rem;
+}
+.cart_container .item_text{
+    color: hsl(12, 20%, 44%);
+    font-weight: bold;
+    margin-top: 2rem;
+}
